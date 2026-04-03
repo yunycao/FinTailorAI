@@ -1,5 +1,5 @@
 View the App: 
-https://ai.studio/apps/e5b3ac85-ae78-4cad-a908-18f0fc421e7c?fullscreenApplet=true
+https://ais-pre-pcb3hgdtnysaxagihrmy6l-172012438077.us-east5.run.app/
 
 ## Run Locally
 
